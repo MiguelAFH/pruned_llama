@@ -1,0 +1,9 @@
+2024-12-03 17:32:58,034 - INFO - Generating plots for 9_generate_pruned_quantized_finetuned_performance_graphs
+2024-12-03 17:32:58,046 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_metrics.csv
+2024-12-03 17:32:58,483 - INFO - Plot saved in ../../plots/9_generate_pruned_quantized_finetuned_performance_graphs.png
+2024-12-03 17:34:01,659 - INFO - Generating plots for 9_generate_pruned_quantized_finetuned_performance_graphs
+2024-12-03 17:34:01,671 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_metrics.csv
+2024-12-03 17:34:02,098 - INFO - Plot saved in ../../plots/9_generate_pruned_quantized_finetuned_performance_graphs.png
+2024-12-03 17:34:37,744 - INFO - Generating plots for 9_generate_pruned_quantized_finetuned_performance_graphs
+2024-12-03 17:34:37,882 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_metrics.csv
+2024-12-03 17:34:38,665 - INFO - Plot saved in ../../plots/9_generate_pruned_quantized_finetuned_performance_graphs.png

@@ -1,0 +1,35 @@
+2024-11-10 06:13:25,149 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 06:13:25,150 - INFO - Input file: ../../data/PrunedMedLLM_metrics.csv
+2024-11-10 06:13:27,401 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 06:20:32,729 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 06:20:32,849 - INFO - Input file: ../../data/PrunedMedLLM_metrics.csv
+2024-11-10 06:20:34,265 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 06:24:06,289 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 06:24:06,944 - INFO - Input file: ../../data/PrunedMedLLM_metrics.csv
+2024-11-10 06:24:13,875 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 06:26:20,242 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 06:26:20,423 - INFO - Input file: ../../data/PrunedMedLLM_metrics.csv
+2024-11-10 06:26:21,769 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 06:27:21,444 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 06:27:21,444 - INFO - Input file: ../../data/PrunedMedLLM_metrics.csv
+2024-11-10 06:27:22,149 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 06:34:03,587 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 06:34:03,694 - INFO - Input file: ../../data/PrunedMedLLM_metrics.csv
+2024-11-10 06:34:07,727 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 07:09:43,547 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 07:09:43,611 - INFO - Input file: ../../data/PrunedMedLLMQuantized_metrics.csv
+2024-11-10 07:12:59,508 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 07:12:59,886 - INFO - Input file: ../../data/PrunedMedLLMQuantized_metrics.csv
+2024-11-10 07:13:18,098 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 18:05:13,268 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 18:05:15,603 - INFO - Input file: ../../data/PrunedMedLLMQuantized_metrics.csv
+2024-11-10 18:05:34,072 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 18:20:24,540 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 18:20:29,040 - INFO - Input file: ../../data/PrunedMedLLMQuantized_metrics.csv
+2024-11-10 18:20:33,581 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 18:48:50,093 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 18:48:50,882 - INFO - Input file: ../../data/PrunedMedLLMQuantized_metrics.csv
+2024-11-10 18:48:59,875 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png
+2024-11-10 23:30:11,838 - INFO - Generating plots for 6_generate_pruned_quantized_performance_graphs
+2024-11-10 23:30:14,029 - INFO - Input file: ../../data/PrunedMedLLMQuantized_metrics.csv
+2024-11-10 23:30:17,868 - INFO - Plot saved in ../../plots/6_generate_pruned_quantized_performance_graphs.png

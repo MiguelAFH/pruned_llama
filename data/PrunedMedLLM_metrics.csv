@@ -1,0 +1,5 @@
+﻿Model,Mean win rate,MedQA - EM,MedMCQA - EM,PubMedQA - EM,MMLU - EM,TruthfulQA - EM
+migufuen/Llama-3.2-1B-Instruct,0.867,0.406,0.399,0.618,0.445,0.344
+migufuen/Llama-3.2-1B-Instruct-pruned-0.1,0.733,0.378,0.355,0.64,0.434,0.306
+migufuen/Llama-3.2-1B-Instruct-pruned-0.2,0.367,0.318,0.294,0.626,0.376,0.292
+migufuen/Llama-3.2-1B-Instruct-pruned-0.3,0.033,0.262,0.294,0.532,0.295,0.208

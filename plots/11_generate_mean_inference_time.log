@@ -1,0 +1,37 @@
+2024-12-03 18:27:35,074 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:27:35,074 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:28:38,155 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:28:38,163 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:28:38,567 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:33:02,332 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:33:04,547 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:33:06,161 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:36:39,227 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:36:39,235 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:36:39,647 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:37:50,576 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:37:50,587 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:37:51,000 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:38:16,885 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:38:16,885 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:38:19,673 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:40:02,634 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:40:02,667 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:40:03,089 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:42:00,765 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:42:00,780 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:42:12,645 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:42:12,645 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:42:13,055 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:42:43,503 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:42:43,514 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:42:54,176 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:42:54,176 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:43:13,743 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:43:13,743 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:43:30,896 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:43:30,896 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:43:31,314 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png
+2024-12-03 18:44:30,565 - INFO - Generating plots for 11_generate_mean_inference_time
+2024-12-03 18:44:30,574 - INFO - Input file: ../../data/PrunedMedLLMQuantizedFinetuned_efficiency_metrics.csv
+2024-12-03 18:44:30,995 - INFO - Plot saved in ../../plots/11_generate_mean_inference_time.png

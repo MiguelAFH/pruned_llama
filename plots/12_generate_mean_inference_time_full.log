@@ -1,0 +1,6 @@
+2024-12-03 19:07:50,509 - INFO - Generating plots for 12_generate_mean_inference_time_full
+2024-12-03 19:07:50,509 - INFO - Input file: ../../data/HighPruningRatioInferenceTime.csv
+2024-12-03 19:07:50,954 - INFO - Plot saved in ../../plots/12_generate_mean_inference_time_full.png
+2024-12-03 19:08:30,304 - INFO - Generating plots for 12_generate_mean_inference_time_full
+2024-12-03 19:08:30,313 - INFO - Input file: ../../data/HighPruningRatioInferenceTime.csv
+2024-12-03 19:08:30,788 - INFO - Plot saved in ../../plots/12_generate_mean_inference_time_full.png

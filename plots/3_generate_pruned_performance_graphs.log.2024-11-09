@@ -1,0 +1,9 @@
+2024-11-09 20:43:12,186 - INFO - Creating benchmark plots for ../../data/PrunedMedLLM_metrics.csv
+2024-11-09 20:43:12,186 - INFO - Metrics: ['MedQA - EM', 'MedMCQA - EM', 'PubMedQA - EM', 'MMLU - EM', 'TruthfulQA - EM']
+2024-11-09 20:43:13,287 - INFO - Plot saved in: ../../plots/pruning_rate_performance_plot.png
+2024-11-09 20:43:13,287 - INFO - Done!
+2024-11-09 20:43:13,287 - INFO - Done!
+2024-11-09 20:43:34,337 - INFO - Creating benchmark plots for ../../data/PrunedMedLLM_metrics.csv
+2024-11-09 20:43:34,337 - INFO - Metrics: ['MedQA - EM', 'MedMCQA - EM', 'PubMedQA - EM', 'MMLU - EM', 'TruthfulQA - EM']
+2024-11-09 20:43:35,506 - INFO - Plot saved in: ../../plots/pruning_rate_performance_plot.png
+2024-11-09 20:43:35,506 - INFO - Done!
