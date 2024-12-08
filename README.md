@@ -14,3 +14,7 @@ only a 3% average score reduction compared the base model. Additionally, we ex-
 plore the models’ robustness through the TruthfulQA benchmark. This work aims
 to provide insights into the feasibility of using compressed LLMs in healthcare
 settings and assess their ability to retain both knowledge capacity and robustness.
+
+## Raw Results
+
+The raw HELM results for this project can be downloaded from [here](https://drive.google.com/file/d/1NeGbMP84Pj9IHipvemYTorOeb7shjdQo/view?usp=sharing).
