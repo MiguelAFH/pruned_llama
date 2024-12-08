@@ -4,3 +4,12 @@
 2024-12-03 19:08:30,304 - INFO - Generating plots for 12_generate_mean_inference_time_full
 2024-12-03 19:08:30,313 - INFO - Input file: ../../data/HighPruningRatioInferenceTime.csv
 2024-12-03 19:08:30,788 - INFO - Plot saved in ../../plots/12_generate_mean_inference_time_full.png
+2024-12-08 16:48:03,006 - INFO - Generating plots for 12_generate_mean_inference_time_full
+2024-12-08 16:48:03,007 - INFO - Input file: ../../data/HighPruningRatioInferenceTime.csv
+2024-12-08 16:48:03,455 - INFO - Plot saved in ../../plots/12_generate_mean_inference_time_full.png
+2024-12-08 16:48:51,007 - INFO - Generating plots for 12_generate_mean_inference_time_full
+2024-12-08 16:48:51,016 - INFO - Input file: ../../data/HighPruningRatioInferenceTime.csv
+2024-12-08 16:48:51,452 - INFO - Plot saved in ../../plots/12_generate_mean_inference_time_full.png
+2024-12-08 16:53:46,524 - INFO - Generating plots for 12_generate_mean_inference_time_full
+2024-12-08 16:53:46,535 - INFO - Input file: ../../data/HighPruningRatioInferenceTime.csv
+2024-12-08 16:53:46,955 - INFO - Plot saved in ../../plots/12_generate_mean_inference_time_full.png

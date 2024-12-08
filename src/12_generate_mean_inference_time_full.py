@@ -18,7 +18,9 @@ def main():
     
     df = pd.read_csv(input_path)
     
-    inference_columns = [col for col in df.columns if 'Observed inference' in col]
+    inference_columns = [
+        "MedQA", "MedMCQA", "PubMedQA", "MMLU"
+    ]
     
     df['Average Inference Time'] = df[inference_columns].mean(axis=1)
     
